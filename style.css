@@ -1,0 +1,56 @@
+header {display: block;}
+nav {display: block;}
+main {display: block;}
+footer {display: block;}
+ 
+h1, h2, h3 {
+	color: blue;
+	}
+	
+div { 
+	padding: 10px 25px;
+	border-bottom: 5px dotted blue;
+	}
+	
+.cursive {
+	font-family: cursive;
+	}
+	
+.main-list li { 
+	font-family: cursive;
+	}
+	
+
+body {
+	text-align: center;
+	background-color: orange;
+	font-weight: 700;
+	} 
+
+main {
+	float: left;
+	width: 80%;
+	}
+
+p { 
+	font-family: "Arial", sans-serif;
+	font-size: 16px;
+	margin: 25px 250px;
+	}
+	
+.textwrap {
+	float: left;
+	margin: 5px;
+	}
+	
+
+img {
+	width: 450px;
+	}
+
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	}
